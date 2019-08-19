@@ -12,9 +12,11 @@ pool:
 steps:
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-    wget https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_extended_0.56.3_Linux-64bit.deb
     sudo dpkg -i hugo*.deb
     which hugo
+    hugo
   displayName: 'Run a multi-line script'
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(Pipeline.Workspace)/public'
+    artifact: 'public'
