@@ -12,7 +12,7 @@ pool:
 steps:
 
 - script: |
-    wget https://github.com/gohugoio/hugo/releases/download/v1.56.3/hugo_extended_0.56.3_Linux-64bit.deb
+    wget https://github.com/gohugoio/hugo/releases/download/v0.56.3/hugo_extended_0.56.3_Linux-64bit.deb
     sudo dpkg -i hugo*.deb
     which hugo
     hugo
