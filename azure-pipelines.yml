@@ -19,5 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 - task: PublishPipelineArtifact@1
   inputs:
-    targetPath: '$(Pipeline.Workspace)/public'
+    targetPath: '$(Build.SourcesDirectory)/public'
     artifact: 'public'
