@@ -1,7 +1,7 @@
 ---
 title: How to write a USB stick with macOS.
 date: 2017-08-18
-categories: [desktop]
+categories: [server]
 tags: [tutorial,installation,usb,macOS,ubuntu,desktop]
 duration: 15:00
 ---
