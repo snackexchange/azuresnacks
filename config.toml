@@ -1,5 +1,5 @@
 # End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://azuresnacks.com/"
+baseURL = "https://azuresnacks.azurewebsites.net/"
 
 title = "Azure Snacks"
 languageCode = "en-us"
