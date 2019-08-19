@@ -17,7 +17,7 @@ If you'd like to see a tutorial written on a specific topic, [let us know](#).
   footer = "<a href=\"https://azuresnacks.azurewebsites.net/\"><img src=\"https://bketelsen.visualstudio.com/azuresnacks/_apis/build/status/snackexchange.azuresnacks?branchName=master\"> </a> &nbsp; <a href=\"https://github.com/snackexchange/azuresnacks\">❤ Source code</a>"
   feedbackLink = "mailto:mail@bjk.fyi"
   [params.categoryColors]
-    desktop = "#1A73E8"
+    web = "#1A73E8"
     server = "#E37400"
     security = "#5F6368"
     irc = "#FFAA00"
