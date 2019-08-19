@@ -14,7 +14,7 @@ This site is open source and open to contributions from the community, if you ha
 
 If you'd like to see a tutorial written on a specific topic, [let us know](#).
 """
-  footer = "[![Build Status](https://bketelsen.visualstudio.com/azuresnacks/_apis/build/status/snackexchange.azuresnacks?branchName=master)](https://bketelsen.visualstudio.com/azuresnacks/_build/latest?definitionId=5&branchName=master) &nbsp; <a href=\"https://github.com/snackexchange/azuresnacks\">❤ Source code</a>"
+  footer = "<a href="https://azuresnacks.azurewebsites.net/"><img src=https://bketelsen.visualstudio.com/azuresnacks/_apis/build/status/snackexchange.azuresnacks?branchName=master"> </a> &nbsp; <a href=\"https://github.com/snackexchange/azuresnacks\">❤ Source code</a>"
   feedbackLink = "mailto:mail@bjk.fyi"
   [params.categoryColors]
     desktop = "#1A73E8"
