@@ -8,13 +8,13 @@ theme = "codelabs"
 [params]
   homeTitle = "Do more with Azure!"
   homeDescription = """
-**Azure Snacks** are project-based, step-by-step guides to doing amazing things with Ubuntu. From installing the OS in the first place to packaging your first snap, we're here to help you on your way.
+**Azure Snacks** are quick, step-by-step guides to doing amazing things with Microsoft Azure. From building applications to deploying them, we're here to help you on your way.
 
-This site is open source and open to contributions from the Linux community, if you have a knack for writing and sharing your knowledge, you can [read our guide](#) to get started.
+This site is open source and open to contributions from the community, if you have a knack for writing and sharing your knowledge, you can [read our guide](#) to get started.
 
 If you'd like to see a tutorial written on a specific topic, [let us know](#).
 """
-  footer = "<a href=\"https://github.com/bketelsen/azuresnacks\">❤ Source code</a>"
+  footer = "[![Build Status](https://bketelsen.visualstudio.com/azuresnacks/_apis/build/status/snackexchange.azuresnacks?branchName=master)](https://bketelsen.visualstudio.com/azuresnacks/_build/latest?definitionId=5&branchName=master) &nbsp; <a href=\"https://github.com/snackexchange/azuresnacks\">❤ Source code</a>"
   feedbackLink = "mailto:mail@bjk.fyi"
   [params.categoryColors]
     desktop = "#1A73E8"
