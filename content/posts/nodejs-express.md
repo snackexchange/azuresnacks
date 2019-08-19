@@ -1,5 +1,5 @@
 ---
-title: Learn how to create an Express app in NodeJS and deploy on Azure
+title: Learn how to create an Express app in Node.js and deploy on Azure
 date: 2019-08-19
 categories: [web]
 tags: [nodejs, web, containers, docker, appservice]
@@ -13,7 +13,7 @@ Written by [Tierney Cyren](https://github.com/bnb)
 
 ### What you'll learn
 
-- How to create a NodeJS app and deploy to Azure
+- How to create a Node.js app and deploy to Azure
 
 ### What you'll need
 
