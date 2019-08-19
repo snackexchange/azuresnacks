@@ -9,6 +9,7 @@ duration: 12:00
 {{< step label="Overview" >}}
 The intent of this project is to take you step-by-step through the process of building an Express app, documenting the changes as bite-sized chunks that you'll ideally be able to pick up and iterate upon rapidly.
 
+Written by [Tierney Cyren](https://github.com/bnb)
 
 ### What you'll learn
 
