@@ -7,6 +7,15 @@ theme = "codelabs"
 
 [params]
   homeTitle = "Do more with Azure!"
+  primarycolordark = "#7b1fa2"
+  primarycolor = "#9C27B0"
+  primarycolorlight = "#e1bee7"
+  primarycolortext = "#FFFFFF"
+  accentcolor = "#7c4dff"
+  primarytextcolor = "#FFFFFF"
+  secondarytextcolor = "#757575"
+  dividercolor = "#BDBDBD"
+
   homeDescription = """
 **Azure Snacks** are quick, step-by-step guides to doing amazing things with Microsoft Azure. From building applications to deploying them, we're here to help you on your way.
 

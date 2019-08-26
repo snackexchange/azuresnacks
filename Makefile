@@ -1,6 +1,6 @@
 VERSION=0.56.3
 
-generate: hugo update
+generate: 
 	hugo
 
 install:

@@ -12,18 +12,17 @@
   {{- $style := resources.Get "scss/categories.scss" | resources.ExecuteAsTemplate "categories.scss" . | resources.ToCSS -}}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ end -}}
+
+   {{- $style2 := resources.Get "scss/theme.scss" | resources.ExecuteAsTemplate "theme.scss" . | resources.ToCSS -}}
+
+  <!-- {{ $style2 }}-->
+  <link rel="stylesheet" href="{{ $style2.Permalink }}">
   <style>
     body {
       transition: opacity ease-in 0.2s;
     }
 
-    body[unresolved] {
-      opacity: 0;
-      display: block;
-      overflow: hidden;
-      position: relative;
-      margin: 0;
-    }
+  
   </style>
 </head>
 
